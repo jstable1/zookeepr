@@ -117,6 +117,27 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Chevy",
+      "species": "Gorilla",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Chevy",
+      "species": "Pig",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
